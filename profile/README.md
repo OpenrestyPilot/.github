@@ -1,12 +1,12 @@
-# 你好，欢迎来到 OpenResty Plus 👋
+# 你好，欢迎来到 OpenResty Pilot 👋
 
-OpenResty Plus 致力于打造开源、易用的 OpenResty 管理平台，帮助开发者和运维团队统一管理 OpenResty 实例、配置与运行状态。
+OpenResty Pilot 致力于打造开源、易用的 OpenResty 管理平台，帮助开发者和运维团队统一管理 OpenResty 实例、配置与运行状态。
 
 ![OpenResty Plus 架构图](https://raw.githubusercontent.com/OpenrestyPlus/orp-backend/main/docs/openresty-architecture-polished.png)
 
 ## 🙋 关于我们
 
-OpenResty Plus 提供管理控制台、Go 控制面、节点 Agent 和配置导入工具，帮助你完成配置管理、版本发布、节点状态查看与日常运维。
+OpenResty Pilot 提供管理控制台、Go 控制面、节点 Agent 和配置导入工具，帮助你完成配置管理、版本发布、节点状态查看与日常运维。
 
 我们的目标是让 OpenResty 集群管理更清晰、更可靠，也更容易融入现有基础设施。
 
@@ -25,7 +25,7 @@ OpenResty Plus 提供管理控制台、Go 控制面、节点 Agent 和配置导�
 
 ## 🍿 关于我们
 
-我们喜欢开源、基础设施和把复杂运维流程变得简单。欢迎一起交流、使用和改进 OpenResty Plus！
+我们喜欢开源、基础设施和把复杂运维流程变得简单。欢迎一起交流、使用和改进 OpenResty Pilot！
 
 ## 📄 许可
 
